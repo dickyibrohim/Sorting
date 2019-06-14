@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1446568774 source:d:\sorting\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1446569020 source:g:\programming basic\sorting\sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
